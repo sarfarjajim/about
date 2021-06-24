@@ -25,7 +25,7 @@ body{
 	background-color: #F0D9E7; 
 	
 	
-	background:url(construction.jpg);
+	background:url(/construction.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -63,7 +63,7 @@ border:1px solid #ddd;
 }
 
 .middle-container .projects{
-	background-image: url(banner2.jpg);
+	background-image: url(/banner2.jpg);
 	height: 500px;
 	width: 980px;
 	background-size: cover;
