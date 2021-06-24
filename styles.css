@@ -28,7 +28,7 @@ body{
 	background:url(/construction.jpg);
 	background-size: 100%;
 	background-repeat: no-repeat;
-	background-position: center center;
+	
 	height: 500px;
 	width: 980px;
 	margin-top: 150px;
@@ -67,7 +67,7 @@ border:1px solid #ddd;
 	height: 500px;
 	width: 980px;
 	background-size: 100%;
-	background-position: center center;
+	
 	background-repeat: no-repeat;
 }
 .projects{
