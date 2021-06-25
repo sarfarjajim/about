@@ -64,11 +64,11 @@ border:1px solid #ddd;
 
 .middle-container .projects{
 	background-image: url(/banner2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
 	height: 500px;
 	width: 980px;
-	background-size: 100%;
-	
-	background-repeat: no-repeat;
 }
 .projects{
 	position: relative;
