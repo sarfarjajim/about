@@ -22,7 +22,7 @@ body{
 	background: url(/construction.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position:  center;
 	height: 500px;
 	width: 980px;
 	margin-top: 150px;	
@@ -58,7 +58,7 @@ border:1px solid #ddd;
 	background-image: url(/banner2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: center;
 	height: 500px;
 	width: 980px;
 }
