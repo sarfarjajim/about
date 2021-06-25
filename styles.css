@@ -19,7 +19,7 @@ body{
 }
 .top-container{
 	background-color: #F0D9E7; 
-	background:url(/construction.jpg);
+	background: url(/construction.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
