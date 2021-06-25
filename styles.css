@@ -17,23 +17,15 @@ body{
 	top: 0;
 	
 }
-
-
-
 .top-container{
-	
 	background-color: #F0D9E7; 
-	
-	
 	background:url(/construction.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
 	height: 500px;
 	width: 980px;
-	margin-top: 150px;
-
-	
+	margin-top: 150px;	
 }
 .middle-container{
 	background-color: #FDFAF6;
