@@ -55,11 +55,11 @@ body{
 @media (max-width: 900px){
 	#features h3{
 	font-family: "Monsterrat-Bold",sans-serif;
-	font-size: 3rem;
+	font-size: 6rem;
                  }
 #features p{
 	color: grey;
-	font-size: 2rem;
+	font-size: 4rem;
 	}
 }
 
