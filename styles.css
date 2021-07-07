@@ -52,20 +52,7 @@ body{
 .icon:hover{
 	color: #FC5404;
 }
-@media (max-width: 900px){
-	#features{
-	padding: 0;
-		text-align: center;
-                 }
-	#features h3{
-	font-family: "Monsterrat-Bold",sans-serif;
-	font-size: 20rem;
-                 }
-#features p{
-	color: grey;
-	font-size: 8rem;
-	}
-}
+
 
 /*About section*/
 
