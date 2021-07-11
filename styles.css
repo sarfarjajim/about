@@ -1,0 +1,168 @@
+:root{
+    --primary: hsla(191, 100%, 50%, 0.65);
+    --secondary: hsla(250, 15%, 61%, 0.65);
+}
+body{
+	font-family: "Monsterrat",sans-serif;
+	
+}
+h2{
+	font-family: "Monsterrat-Bold",sans-serif;
+	color: #fff;
+	
+}
+h5{
+	font-family: "Monsterrat-Bold",sans-serif;
+	color: #fff;
+}
+#title{
+
+	background: linear-gradient(135deg, var(--primary), var(--secondary)),
+    url("../images/banner1.jpg") no-repeat center center / 100% auto;
+	
+}
+#title h1{
+	font-family: "Monsterrat-Bold",sans-serif;
+    font-size: 3rem;
+	color: #fff;
+	line-height: 1.2;
+}
+.container-fluid{
+	padding: 3% 15%;
+}
+/*Navingation bar*/
+.navbar{
+	padding: 0 0 3.5rem;
+}
+.nav-item{
+	padding: 0 18px;
+}
+.nav-link{
+	font-family: "Monsterrat-Light",sans-serif;
+	font-size: 1.2rem;
+}
+.download-button{
+	margin: 5% 3% 5% 0;
+}
+.title-image{
+	width: 95%;
+	
+}
+
+/*service section*/
+.secondary{
+	display: inline-block;
+	background: linear-gradient(to top,#8e9eab, #F0EBCC);
+	margin-bottom: 30px;
+}
+#service{
+	text-align: center;
+	background-color: #F0EBCC;
+    padding: 7% 15%;
+    
+}
+.services{
+    width: 18rem;
+	
+}
+
+
+
+/*dream section*/
+
+.dream{
+	height: 100px;
+	color: white;
+    display: grid;
+    place-items: center;
+    place-content: center;
+	background: linear-gradient(135deg, var(--primary), var(--secondary));
+}
+.dream:hover{
+	background-color:#04009A;
+}
+
+/*about section*/
+.dream{
+	margin-bottom: 20px;
+}
+#about{
+
+	padding:7% 15%;
+	background-color:#77ACF1 ;
+}
+.aboutus{
+	font-family: "Monsterrat",sans-serif;
+	padding-left: ;
+}
+
+/*testimonial section*/
+
+#testimonials{
+background-color: #3EDBF0;
+
+text-align: center;
+color: #fff;
+}
+.testimonial-image{
+	width: 10%;
+	
+	border-radius: 100%;
+	margin: 20px;
+}
+.carousel-item{
+	padding: 7% 15%;
+}
+	/*footer section*/
+	#footer{
+		background-color:#F0EBCC ;
+		text-align: center;
+	}
+	.social-icon {
+		margin: 20px 10px;
+		text-align: center;
+	  }
+
+
+	  @media (max-width: 900px){
+	
+			#title{
+
+				background: linear-gradient(135deg, var(--primary), var(--secondary)),
+				url("../images/mbanner.jpg") no-repeat center center / cover;
+				
+			}	
+     	#title h1{
+		font-size: 2rem;
+	}
+	#service{
+      
+    }
+    .services{
+        margin-bottom: 10px;
+	    width: 100%;
+		height: auto;
+    }
+	#about{
+		padding:0;
+	}
+	.aboutus{
+		padding: 0;
+	}
+	.dream{
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	
+	.carousel-item{
+padding:15% 7%;
+text-align: center;
+	}
+	
+	#testimonials h2{
+		font-size: 1rem;
+	}
+	
+	}
+	
+
